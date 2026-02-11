@@ -15,7 +15,7 @@
     "@tailwindcss/vite": "^4.0.7",
     "@types/google.visualization": "^0.0.74",
     "autoprefixer": "^10.4.20",
-    "axios": "^1.7.9",
+    "axios": "^1.13.5",
     "postcss": "^8.5.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
